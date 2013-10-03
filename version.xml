@@ -1,6 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE properties SYSTEM "http://java.sun.com/dtd/properties.dtd">
 <properties version="1.0">
-	<entry key="Minecraft 1.6.2">Beta 0.2.06|NO_LINK_YET</entry>
+	<entry key="Minecraft 1.6.2">Beta 0.2.07|http://adf.ly/WqZuq</entry>
+	<entry key="Minecraft 1.6.4">None|NO_LINK_YET</entry>
 	<entry key="Beta 0.2.06">Added a slew of NEI plugins, Force Furnaces, IC2 Force Machines, Iron Chest TileBox upgrading and the Book of Mudora.  Info: http://bit.ly/dartPost</entry>
+	<entry key="Beta 0.2.07">Several bugfixes and tweaks, also added Storage Units and Forceaflouge Blocks.  Info: http://bit.ly/dartPost</entry>
 </properties>
