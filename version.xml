@@ -2,7 +2,7 @@
 <!DOCTYPE properties SYSTEM "http://java.sun.com/dtd/properties.dtd">
 <properties version="1.0">
 	<entry key="Minecraft 1.6.2">Beta 0.2.14|http://adf.ly/ajxBp</entry>
-	<entry key="Minecraft 1.6.4">Beta 0.2.15|http://adf.ly/c0LZy</entry>
+	<entry key="Minecraft 1.6.4">Beta 0.2.16|http://adf.ly/e5EDW</entry>
 	<entry key="Beta 0.2.06">Added a slew of NEI plugins, Force Furnaces, IC2 Force Machines, Iron Chest TileBox upgrading and the Book of Mudora.  Info: http://bit.ly/dartPost</entry>
 	<entry key="Beta 0.2.07">Several bugfixes and tweaks, also added Storage Units and Forceaflouge Blocks.  Info: http://bit.ly/dartPost</entry>
 	<entry key="Beta 0.2.08">More than a dozen bugfixes pertaining to Force Machines, InvTweaks support for Storage Units and Force Packs and updated to Thaumcraft 4 API.  Info: http://bit.ly/dartPost</entry>
@@ -13,4 +13,5 @@
 	<entry key="Beta 0.2.13">Many bugfixes and even more config options.  Treasure and Spoils Bags have been reworked.  Info: http://bit.ly/dartPost</entry>
 	<entry key="Beta 0.2.14">Bugfixes and config options.  Goodbye Refined Iron; hello Dart Iron!  Info: http://bit.ly/dartPost</entry>
 	<entry key="Beta 0.2.15">Bugfixes and stability updates.  Added a configurable whitelist for Force Wrenchable TileEntities.  Thermal Expansion Support.  Info: http://bit.ly/dartPost</entry>
+	<entry key="Beta 0.2.16">Bugfixes and config options.  Added the Time Upgrade, Throwable/Stackable Force Flasks and much more.  Changelog/videos available at: http://bit.ly/dartPost</entry>
 </properties>
