@@ -3,7 +3,7 @@
 <properties version="1.0">
 	<entry key="Minecraft 1.6.2">Beta 0.2.20|http://adf.ly/pTHhK</entry>
 	<entry key="Minecraft 1.6.4">Beta 0.2.20|http://adf.ly/pTHhK</entry>
-	<entry key="Minecraft 1.7.10">Pre 1.0.10|NO_LINK</entry>
+	<entry key="Minecraft 1.7.10">Pre 1.0.11|NO_LINK</entry>
 	<entry key="Beta 0.2.06">Added a slew of NEI plugins, Force Furnaces, IC2 Force Machines, Iron Chest TileBox upgrading and the Book of Mudora.  Info: http://bit.ly/dartPost</entry>
 	<entry key="Beta 0.2.07">Several bugfixes and tweaks, also added Storage Units and Forceaflouge Blocks.  Info: http://bit.ly/dartPost</entry>
 	<entry key="Beta 0.2.08">More than a dozen bugfixes pertaining to Force Machines, InvTweaks support for Storage Units and Force Packs and updated to Thaumcraft 4 API.  Info: http://bit.ly/dartPost</entry>
@@ -20,5 +20,5 @@
 	<entry key="Beta 0.2.19">Bugfixes and config options.  Force Bursting, Fairy Fountains, Bombs and Skyblock friendly features have been added.  Info: http://bit.ly/dartPost</entry>
 	<entry key="Beta 0.2.20">Generation bugfix.  Hud options and in-game toggle hotkey with 6 preset locations.  (Sneak + hotkey to toggle "ZeldaHud" as well.)  Bonus UU recipes.  Info: http://bit.ly/dartPost</entry>
 	<entry key="1.0.0">Initial version of Project Alchemy for Minecraft 1.7.10.  It's a brand new world!</entry>
-	<entry key="Pre 1.0.10">Sponge recipe and functionality added.</entry>
+	<entry key="Pre 1.0.11">Fixed an exploit in the Atelier.</entry>
 </properties>
