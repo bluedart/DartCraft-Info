@@ -3,7 +3,7 @@
 <properties version="1.0">
 	<entry key="Minecraft 1.6.2">Beta 0.2.20|http://adf.ly/pTHhK</entry>
 	<entry key="Minecraft 1.6.4">Beta 0.2.20|http://adf.ly/pTHhK</entry>
-	<entry key="Minecraft 1.7.10">1.0.13|http://www.ftamod.com</entry>
+	<entry key="Minecraft 1.7.10">1.0.13|www.ftamod.com</entry>
 	<entry key="Beta 0.2.20">Generation bugfix.  Hud options and in-game toggle hotkey with 6 preset locations.  (Sneak + hotkey to toggle "ZeldaHud" as well.)  Bonus UU recipes.  Info: http://bit.ly/dartPost</entry>
 	<entry key="1.0.13">Initial version of Project Alchemy for Minecraft 1.7.10.  It's a brand new world!</entry>
 	<entry key="Pre 1.0.12">Removed dependency on custom enchanting block.  Refactored API to be more useful.</entry>
