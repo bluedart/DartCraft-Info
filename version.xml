@@ -3,8 +3,8 @@
 <properties version="1.0">
 	<entry key="Minecraft 1.6.2">Beta 0.2.20|http://adf.ly/pTHhK</entry>
 	<entry key="Minecraft 1.6.4">Beta 0.2.20|http://adf.ly/pTHhK</entry>
-	<entry key="Minecraft 1.7.10">1.0.16|http://www.ftamod.com/</entry>
+	<entry key="Minecraft 1.7.10">1.0.17|http://www.ftamod.com/</entry>
 	<entry key="Beta 0.2.20">Generation bugfix.  Hud options and in-game toggle hotkey with 6 preset locations.  (Sneak + hotkey to toggle "ZeldaHud" as well.)  Bonus UU recipes.  Info: http://bit.ly/dartPost</entry>
-	<entry key="1.0.16">Bugfixes.  Force Swords now properly smelt items.  Added an entity bottling whitelist config file.</entry>
+	<entry key="1.0.17">Bugfixes.  Update notification will now only show once per version.  API has been fixed.</entry>
 	<entry key="Pre 1.0.12">Removed dependency on custom enchanting block.  Refactored API to be more useful.</entry>
 </properties>
